@@ -1,6 +1,6 @@
 Fun with Selenium
 
-This is the implementation of task I suggested to AQA candidates as the pre-screening challenge.
+This is the implementation of task suggested to AQA candidates as the pre-screening challenge, in my recent company.
 Later, candidate code was used in technical interview to discuss involved tools and approaches.
 
 
